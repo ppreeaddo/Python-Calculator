@@ -1,5 +1,3 @@
-## Author: Patrick Pree-Addo 
-- This is my first Python project!
 
 # Python Calculator
 
