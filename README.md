@@ -1,5 +1,5 @@
 ## Author: Patrick Pree-Addo 
-- This is my first Python project, made to practice basic Python operations and input handling.
+- This is my first Python project.!
 
 # Python Calculator
 
